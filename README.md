@@ -13,7 +13,7 @@ Este Repositório contém as Atvidades de HTML!
 
 [Atividade 5](https://deboraliah.github.io/Atividade5/)
 
-[Atividade 6]()
+[Atividade 6](https://deboraliah.github.io/Atividade6/)
 
 [Atividade 7]()
 
