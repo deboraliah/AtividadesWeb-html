@@ -9,9 +9,9 @@ Este Repositório contém as Atvidades de HTML!
 
 [Atividade 3](https://deboraliah.github.io/Atividade3/)
 
-[Atividade 4]
+[Atividade 4](https://deboraliah.github.io/Atividade4/)
 
-[Atividade 5]
+[Atividade 5](
 
 [Atividade 6]
 
